@@ -1,0 +1,17 @@
+{
+  "name": "node-fp",
+  "version": "1.0.0",
+  "description": "form parser",
+  "main": "app.js",
+  "author": "kosiken",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "image-to-ascii": "^3.0.12",
+    "mime": "^2.4.4",
+    "node-emoji": "^1.10.0"
+  }
+}
